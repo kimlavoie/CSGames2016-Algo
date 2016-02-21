@@ -25,3 +25,5 @@ Ce qui s'évalue de la façon suivante:
 3. vrai
 
 Le programme doit donc exprimer que l'expression est satisfiable.
+
+Note: Vous pouvez utiliser les symboles | & ! pour représenter les opérateurs logiques.
